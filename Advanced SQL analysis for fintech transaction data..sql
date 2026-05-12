@@ -1,12 +1,3 @@
-/* =====================================================
-   WEEKLY SQL BUSINESS ASSIGNMENT
-   Dataset: userz & transactionz
-   Context: Fintech
-   Instructions:
-   - Write the SQL query under each question
-   - Do NOT modify the questions
-   ===================================================== */
-
 
 /* =====================================================
    SECTION A: CUSTOMER INSIGHTS (Beginner)
@@ -395,5 +386,5 @@ FROM userz;
     WHERE T.transaction_id IS NULL;
 
 /* =====================================================
-   END OF ASSIGNMENT
+   END 
    ===================================================== */
