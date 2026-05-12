@@ -11,9 +11,12 @@ Risk Monitoring: Tracking failed transactions and identifying "silent" users wit
 Data Professionalism: Cleaning inconsistent date formats and creating readable reporting aliases.
 
 ## Technical Skillset Demonstrated
-Data Wrangling: Using STR_TO_DATE and TIMESTAMPDIFF to handle non-standard date formats.
+Data Wrangling: Using STR_TO_DATE and TIMESTAMPDIFF to handle nonstandard date formats.
+
 Conditional Logic: Implementing CASE statements for transaction tiering (High/Medium/Low).
+
 Relational Mapping: Executing INNER JOIN and LEFT JOIN to connect user demographics with financial activity.
+
 Advanced Filtering: Utilizing HAVING, LIKE wildcards, and BETWEEN for granular reporting.
 
 ## Database Schema Summary
